@@ -1,0 +1,93 @@
+
+Pays,Lieu,Coordonées,Opérationnel de/à,Nombre de fusées lancés,Mase de la fusée lancée la plus lourde,Altitude la plus élevée atteinte,Note
+Algérie,Base de lancement de Reggane,"26° 43′ 08″ N, 0° 16′ 37″ E",1961–1965,10,,,
+Zaïre,"Shaba Nord, centre de lancement Kapani Tonneo (OTRAG)","7° 55′ 33″ S, 28° 31′ 40″ E",1977–1978,3,,<50 km,Fusées allemandes OTRAG[21].
+Libye,"Sebha, centre de lancement Tawiwa (OTRAG)","26° 59′ 38″ N, 14° 27′ 51″ E",1981–1982,,,50 km,Fusées allemandes OTRAG[22].
+Mauritanie,Nouadhibou,"20° 55′ 43″ N, 17° 01′ 54″ O",1973-1973,1,,,Pendant une éclipse solaire.
+"<span data-sort-value=""Afrique du Sud republique""> Afrique du Sud",Overberg Test Range (en),"34° 36′ 10″ S, 20° 18′ 09″ E",1989–1990,,,,Utilisé pour le lancement de fusées expérimentales uniquement[23].
+
+
+Pays,Lieu,Coordonnées,Opérationnel de/à,Nombre de fusées lancées,Masse de la fusée lancée la plus lourde,Altitude la plus élevée atteinte,Notes
+Chine,"Base 603, Shijiedu, Guangde","30° 56′ 15″ N, 119° 12′ 21″ E",1960–1966,,1 000 kg,<60 km,
+Chine,Jingyu,"42° 00′ N, 126° 30′ E",,,,,
+Inde,"Centre spatial Vikram Sarabhai, Thiruvananthapuram, TERLS (en)","8° 31′ 53″ N, 76° 52′ 08″ E",1962–,>2 000,,,[24]
+Inde,Balasore,"20° 58′ 33″ N, 87° 02′ 57″ E",,,,,
+Inde,Île Wheeler,"20° 45′ 29″ N, 87° 05′ 08″ E",,,,,
+Indonésie,"Stasiun Peluncuran Roket, Pameungpeuk (en)","7° 38′ 47″ S, 107° 41′ 18″ E",1965–2009,14,300 kg,100 km,Fusées-sondes
+Iran,Centre spatial de Qom,"34° 39′ 00″ N, 50° 54′ 00″ E",1991,,,,Tests de missiles balistiques[25]
+Iran,Base de lancement de Semnan,"35° 14′ 02″ N, 53° 55′ 16″ E",2009–,2,,Orbitale,
+Irak,Centre spatial d'Al-Anbar,"32° 46′ 56″ N, 44° 17′ 59″ E",1989,,,,Probablement détruit pendant la guerre du Golfe[26]
+Japon,Akita,"39° 34′ 17″ N, 140° 03′ 28″ E",1956–1990,81,,343 km,
+Japon,Ryori,"39° 01′ 48″ N, 141° 49′ 48″ E",1970–,,,,
+Japon,Niijima,"34° 20′ 16″ N, 139° 15′ 57″ E",,,,,
+Japon,Obachi,"40° 42′ 12″ N, 141° 22′ 10″ E",,,,,
+Kazakhstan,Sary Shagan,"46° 22′ 48″ N, 72° 52′ 12″ E",1958–,,,,
+Corée du Sud,Anhueng,"36° 42′ 08″ N, 126° 28′ 18″ E",1993–,,,,
+Maldives,Atoll Gan (en),"0° 41′ 36″ S, 73° 09′ 24″ E",,,,,
+Pakistan,"Centre spatial de Sonmiani, Las Bela, Balouchistan","25° 11′ 33″ N, 66° 44′ 56″ E",Années 1960 –[27],,,,Fusées-sondes et test de missiles pour SUPARCO[28].
+Pakistan,"Centre spatial de Tilla (en), District de Jhelum, Punjab","33° 23′ 46″ N, 73° 17′ 46″ E",1980s –[29],,,,Fusées-sondes et test de missiles pour SUPARCO[30].
+Union soviétique,Kheysa,"80° 27′ 00″ N, 58° 03′ 00″ E",1956–1980,,,,
+Union soviétique,Sovietskaïa Gavan,"48° 58′ 12″ N, 140° 18′ 00″ E",1963–1964,6,,402 km,
+"Union soviétique-
+ Russie",Okhotsk,"59° 22′ N, 143° 15′ E",1981–2005,,,1 000 km,
+
+
+Pays,Lieu,Coordonnées,Opérationnel de-à,Nombre de lanceurs lancés,Masse du lanceur lancé la plus lourde,Altitude la plus élevée atteinte,Notes
+France,"Centre d'essais de la Méditerranée, Île du Levant","43° 02′ 42″ N, 6° 28′ 44″ E",1948-,,,,
+République de Weimar,"Centre de lancement de Berlin (en), Berlin-Tegel","52° 21′ 00″ N, 13° 12′ 36″ E",1930-1933,,,4 km,
+Reich allemand,Peenemünde/Greifswalder Oie,"54° 08′ 35″ N, 13° 47′ 38″ E",1942-1945,>3 000,12 500 kg,>100 km,Fusées V-2 pendant la Seconde Guerre mondiale.
+Allemagne de l'Ouest,Cuxhaven,"53° 50′ 56″ N, 8° 35′ 30″ E",1945-1964,,,,
+Allemagne de l'Ouest,"Hespenbusch, Großenkneten","52° 56′ 20″ N, 8° 18′ 45″ E",1952-1957,,,<10 km,
+Allemagne de l'Est,Zingst,"54° 26′ 24″ N, 12° 47′ 04″ E",1970-1992,67,,80 km,
+Grèce,Koroni,"36° 46′ 11″ N, 21° 55′ 54″ E",1966-1989,371,,114 km;,
+Islande,Vik,"63° 25′ 08″ N, 19° 00′ 17″ O",1964-1965,2,,,
+Italie,Salto di Quirra,"39° 31′ 38″ N, 9° 37′ 59″ E",1964-,,,,
+Norvège,Base de lancement d'Andøya,"69° 17′ 39″ N, 16° 01′ 15″ E",1962-,>900,700 kg,,Lancement de fusées dans la haute atmosphère[37].
+Norvège,Marka (en),"58° 12′ 00″ N, 7° 18′ 00″ E",1983-1984,,16 kg,,
+Norvège,SvalRak,"78° 13′ 24″ N, 15° 38′ 49″ E",1997-,,,,
+Pologne,Forêt de Tuchola,"53° 37′ 11″ N, 17° 59′ 06″ E",1944-1945,,,,Fusées V-2 nazies.
+Pologne,Łeba,"54° 46′ 09″ N, 17° 35′ 37″ E",1941-1945,,,,Fusées V-2 nazies.
+Pologne,Łeba-Rąbka,"54° 45′ 16″ N, 17° 31′ 05″ E",1963-1973,36,,,Fusées Meteor (en) polonaises.
+Pologne,Blizna,"50° 10′ 55″ N, 21° 36′ 58″ E",1943-1944,139,,,Fusées V-2 nazies.
+Espagne,"El Arenosillo, province de Huelva","37° 05′ 49″ N, 6° 44′ 19″ O",1966-,>500,,,
+"Union soviétique-
+ Union soviétique",Nyonoksa,"64° 38′ 57″ N, 39° 11′ 14″ E",1965-1997,,,,
+Suède,Nausta,"66° 21′ 26″ N, 19° 16′ 33″ E",1961-1961,1,30 kg,<80 km,Fusée Arcas pour la recherche atmosphérique[38].
+Suède,Kronogård,"66° 24′ 53″ N, 19° 16′ 36″ E",1961-1964,18,700 kg,135 km,"Fusées Arcas, Nike-Cajun et Nike-Apache pour la recherche atmosphérique."
+Suède,"Esrange, Kiruna","67° 53′ 36″ N, 21° 06′ 15″ E",1966-1972,150,700 kg,237 km,Opérée par l'ESRO[39].
+Suède,"Esrange, Kiruna","67° 53′ 36″ N, 21° 06′ 15″ E",1972-,300,12 400 kg,717 km,"Opérée par la SSC[39]. Principaux programmes : Maxus, TEXUS, Maser, ballons stratosphériques."
+"<span data-sort-value=""Royaume uni""> Royaume-Uni",The Needles,"50° 39′ 50″ N, 1° 34′ 35″ O",1956-1971,,,,
+"<span data-sort-value=""Royaume uni""> Royaume-Uni",South Uist,"57° 19′ 48″ N, 7° 19′ 48″ O",1959-,,,,
+
+
+Pays,Lieu,Coordonnées,Opérationnel de-à,Nombre de lanceurs lancés,Masse du lanceur lancé la plus lourde,Altitude la plus élevée atteinte,Notes
+Canada,"Fort Churchill, Manitoba","58° 44′ 03″ N, 93° 49′ 13″ O",1954-1985,>3 500,,,Base de l'armée canadienne[41].
+Canada,Hall Beach,"68° 46′ 34″ N, 81° 14′ 36″ O",1971-1971,7,,270 km,
+Canada,Southend,"56° 20′ N, 103° 14′ O",1980-1980,2,1 200 kg,,
+Groenland,Base aérienne de Thulé,"76° 25′ 26″ N, 68° 17′ 37″ O",1964-1980,,,,Opérée par la US Air Force[42].
+États-Unis,Polygone d'essais de missile de White Sands,"32° 33′ 53″ N, 106° 21′ 33″ O",1946-,>7 000,,,Vols civils et militaires. Elle sert de site d'atterrissage alternatif pour les véhicules spatiaux[43].
+États-Unis,Nellis Air Force Range (anciennement Nevada Test and Training Range),"36° 46′ 17″ N, 116° 06′ 49″ O",1950s-,,,,[44].
+États-Unis,"Pacific Missile Range Facility, Hawaï","22° 01′ 22″ N, 159° 47′ 06″ O",1963-,,,,Test de missiles anti-balistiques par la US Navy.
+États-Unis,"Base de lancement de Keweenaw, Michigan","47° 25′ 47″ N, 87° 42′ 52″ O",1964-1971,>50,770 kg,<160 km,Inutilisée.
+États-Unis,"Aéroport et port spatial de Mojave, Californie","35° 03′ 33″ N, 118° 08′ 56″ O",2004-,,,112 km,Lancement de vols spatiaux privés (SpaceShipOne).
+États-Unis,"Spaceport America (anciennementSouthwest Regional Spaceport), Upham (en), Nouveau-Mexique","32° 53′ 22″ N, 106° 59′ 58″ O",2006-,8,,,"Lancements commerciaux suborbitaux ; projet de lancement de tourisme spatial. Coentreprise (joint venture) entre l'État du Nouveau-Mexique et Virgin Galactic[45],[46]."
+
+
+Pays,Lieu,Coordonnées,Opérationnel de-à,Nombre de lanceurs lancés,Masse du lanceur lancé la plus lourde,Altitude la plus élevée atteinte,Notes
+Argentine,Las Palmas,"27° 05′ 43″ S, 58° 45′ 13″ O",1966-1966,2,3 400 kg,270 km,Lancement de fusées Titus pendant une éclipse solaire.
+Argentine,Tartagal,"22° 45′ 42″ S, 63° 49′ 26″ O",1966-1966,,,,Pendant une éclipse solaire.
+Argentine,Mar Chiquita,"37° 43′ 27″ S, 57° 24′ 18″ O",1968–1972,11,,,
+Argentine,Villa Reynolds (en),"33° 43′ 29″ S, 65° 22′ 38″ O",1973-1973,2,,,
+Argentine,CELPA,"30° 07′ 39″ S, 66° 20′ 27″ O",,,,,
+Brésil,Natal/Barreira do Inferno,"5° 51′ 58″ S, 35° 22′ 59″ O",1965–,233,,1 100 km,
+Brésil,Praia do Cassino,"32° 05′ 00″ S, 52° 10′ 02″ O",1966-1966,27,,,
+Pérou,Chilca,"12° 30′ 17″ S, 76° 47′ 55″ O",,,,,
+Pérou,Punta Lobos,"12° 30′ 00″ S, 76° 48′ 00″ O",,,2 000 kg,,
+Suriname,Coronie,"5° 52′ 21″ N, 56° 17′ 21″ O",1965-1965,4,,205 km,
+
+
+Pays,Lieu,Coordonnées,Opérationnel de-à,Nombre de lanceurs lancés,Masse du lanceur lancé la plus lourde,Altitude la plus élevée atteinte,Notes
+Australie,Woomera Test Range,"30° 57′ 31″ S, 136° 30′ 13″ E",1950s–,,28 000 kg,Orbitale,"Base de recherche des gouvernements australiens et britanniques. Test de missiles, 2 lancements de satellites."
+Australie,Carnarvon,"24° 29′ 08″ S, 113° 24′ 31″ E",1964–1965,12,,120 km,
+Australie,Lancelin,"30° 58′ 59″ S, 115° 19′ 04″ E",1974-1974,2,,,Pendant une éclipse solaire totale.
+Nouvelle-Zélande,Birdling's Flat,"43° 49′ 01″ S, 172° 40′ 59″ E",,,,,

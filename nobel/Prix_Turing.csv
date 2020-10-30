@@ -1,0 +1,55 @@
+Année,Nom(s),Motivation(s)
+1966,Alan J. Perlis ( États-Unis),Construction de compilateurs.
+1967,Maurice Wilkes ( Royaume-Uni),Bibliothèque logicielle.
+1968,Richard Hamming ( États-Unis),"Méthodes numériques, systèmes de codage automatique, détection et correction d’erreurs."
+1969,Marvin Minsky ( États-Unis),Intelligence artificielle.
+1970,James H. Wilkinson ( Royaume-Uni),"Analyse numérique, algèbre linéaire, analyse d’erreur vers l’arrière."
+1971,John McCarthy ( États-Unis),Intelligence artificielle.
+1972,Edsger Dijkstra ( Pays-Bas),"La science et l’art des langages de programmation, langage ALGOL."
+1973,Charles Bachman ( États-Unis),Technologie des bases de données.
+1974,Donald Knuth ( États-Unis),Analyse des algorithmes et conception des langages de programmation
+1975,Allen Newell ( États-Unis) et Herbert A. Simon ( États-Unis),"Intelligence artificielle, la psychologie de la compréhension humaine, traitement de liste."
+1976,Michael Rabin ( Israël) et Dana S. Scott ( États-Unis),Machine non déterministe. Voir Machine de Turing non déterministe.
+1977,John Backus ( États-Unis),"Systèmes de programmation de haut niveau, procédures formelles pour la spécification des langages de programmation, langage FORTRAN."
+1978,Robert Floyd ( États-Unis),Méthodologies pour la création de logiciels efficaces et fiables.
+1979,Kenneth Iverson ( Canada),"Langages de programmation et notation mathématique, implémentation de systèmes interactifs, utilisation éducative d’APL, théorie et pratique du langage de programmation."
+1980,Charles A. R. Hoare ( Royaume-Uni),Définition et conception des langages de programmation.
+1981,Edgar Frank Codd ( Royaume-Uni),"Systèmes de gestion de bases de données, en particulier bases de données relationnelles."
+1982,Stephen Cook[5] ( États-Unis),Complexité du calcul informatique.
+1983,Kenneth Thompson ( États-Unis) et Dennis Ritchie ( États-Unis),"Théorie des systèmes d'exploitation, implémentation du système UNIX."
+1984,Niklaus Wirth ( Suisse),"Développement des langages EULER, Algol W, MODULA et PASCAL."
+1985,Richard Karp ( États-Unis),"Théorie des algorithmes, NP-complétude."
+1986,John Hopcroft ( États-Unis) et Robert Tarjan ( États-Unis),Création et analyse de structures de données.
+1987,John Cocke ( États-Unis),"Théorie des compilateurs, architecture des grands systèmes, invention des architectures RISC."
+1988,Ivan Sutherland ( États-Unis),Conception assistée par ordinateur (CAO).
+1989,William Kahan ( Canada),Analyse numérique.
+1990,Fernando Corbató ( États-Unis),"Applications réparties, création de CTSS et Multics."
+1991,Robin Milner ( Royaume-Uni),"Système de preuves formelles Logic for Computable Functions (en), ML, Calcul de systèmes communicants (CCS) (en)."
+1992,Butler Lampson ( États-Unis),Environnements personnels distribués.
+1993,Juris Hartmanis ( États-Unis) et Richard Stearns ( États-Unis),Théorie de la complexité (informatique théorique).
+1994,Edward Feigenbaum ( États-Unis) et Raj Reddy ( Inde),Systèmes d’intelligence artificielle de grande envergure.
+1995,Manuel Blum ( Venezuela),Théorie de la complexité appliquée à la cryptographie et à la vérification de programmes.
+1996,Amir Pnueli ( Israël),Logique temporelle et vérification de programmes et de systèmes.
+1997,Douglas Engelbart ( États-Unis),Informatique interactive.
+1998,James Gray ( États-Unis),Bases de données et traitement de transactions.
+1999,Frederick Brooks ( États-Unis),"Architecture des ordinateurs, systèmes d’exploitation et logiciels."
+2000,Andrew Yao ( Chine),"Théorie de la calculabilité, génération de nombres pseudo-aléatoires, cryptographie et complexité de la communication."
+2001,Ole-Johan Dahl ( Norvège) et Kristen Nygaard ( Norvège),Programmation orientée objet et création des langages Simula I et Simula 67.
+2002,"Ronald L. Rivest ( États-Unis), Adi Shamir ( Israël) et Leonard M. Adleman ( États-Unis)",Cryptographie à clef publique et système RSA.
+2003,Alan Kay ( États-Unis),Programmation orientée objet et création du langage Smalltalk.
+2004,Vinton G. Cerf ( États-Unis) et Robert E. Kahn ( États-Unis),"Réseaux, TCP/IP."
+2005,Peter Naur ( Danemark),"Pour des contributions fondamentales à la conception des langages de programmation et à la définition d'Algol 60, pour la conception des compilateurs et pour l'art et la pratique de la programmation informatique."
+2006,Frances Allen ( États-Unis),Optimisation des compilateurs.
+2007,"Edmund M. Clarke ( États-Unis), Allen Emerson ( États-Unis) et Joseph Sifakis ( Grèce/ France)",Pour leurs travaux sur le model checking.
+2008,Barbara Liskov ( États-Unis),Pour la conception de langages de programmation et la méthodologie polymorphe.
+2009,Charles P. Thacker ( États-Unis),Pour le travail effectué tout au long de sa carrière dont le Xerox Alto.
+2010,Leslie Valiant ( Royaume-Uni),"Pour le travail en apprentissage (notamment l'apprentissage PAC), en théorie de la complexité, en calcul distribué et parallèle."
+2011,Judea Pearl ( Israël/ États-Unis),Pour des contributions fondamentales à l'intelligence artificielle par le développement de l'analyse probabiliste et du raisonnement causal.
+2012,Silvio Micali ( Italie/ États-Unis) et Shafi Goldwasser ( Israël/ États-Unis),"Pour leur travaux fondateurs sur la cryptologie et la vérification de preuve, basés de la théorie de la complexité. En particulier l'introduction des systèmes de preuves interactives (qui ont mené au théorème PCP)."
+2013,Leslie Lamport ( États-Unis),"Pour ses contributions fondamentales théoriques et appliquées dans les systèmes distribués et concurrents, notamment en inventant des concepts tels que la causalité et les horloges logiques, […] et la consistance séquentielle[6]."
+2014,Michael Stonebraker ( États-Unis),Contributions fondamentales pour les systèmes de gestions de bases de données (SGBD)[7]. Inventeur de PostgreSQL.
+2015,Whitfield Diffie[8] ( États-Unis) et Martin Hellman[9] ( États-Unis),Pour leurs contributions à la cryptographie contemporaine (créateurs de la cryptographie asymétrique).
+2016,Tim Berners-Lee ( Royaume-Uni),"Pour avoir inventé le World Wide Web, le premier navigateur web et les protocoles et algorithmes permettant le passage à l'échelle du Web[10]."
+2017,David Patterson ( États-Unis) et John Hennessy ( États-Unis),Pour avoir été les pionniers d'une approche systématique et quantitative de la conception et de l'évaluation d'architectures informatiques ayant un impact durable sur l'industrie des microprocesseurs[11].
+2018,"Yann Le Cun ( France), Yoshua Bengio ( Canada) et Geoffrey Hinton ( Canada)",Pour les percées conceptuelles et techniques qui ont fait des réseaux neuronaux profonds une composante essentielle de l'informatique[12].
+2019,Patrick Hanrahan ( États-Unis) et Edwin Catmull ( États-Unis),Pour leurs contributions fondamentales à l'infographie tridimensionnelle et l'impact révolutionnaire de ces techniques sur les effets spéciaux numériques dans la réalisation de films et autres applications[13].
